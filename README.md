@@ -12,6 +12,8 @@ This project is using a variable font, but it's quite hefty! Using Google Fonts,
 
 Bonus points for self-hosting the optimized font!
 
+- Font was optimised using [Transfonter](https://www.transfonter.org/) and renamed `Font-Optimized.woff2` and font-swap:fallback
+
 ## Exercise 2: Improve images
 
 For a photo-heavy site like this one, we can significantly improve the user experience by optimizing the images that appear.
